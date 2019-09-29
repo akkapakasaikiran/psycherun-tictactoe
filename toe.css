@@ -1,0 +1,30 @@
+table.center{
+	margin-left: auto
+	margin-right: auto
+}
+table td{
+	text-align:center;
+    font-size:30pt;
+	width:90px;
+    height:90px;
+	border: 2px solid black;
+}
+
+.left{
+	margin-left: 200px;
+}
+.below th{
+	text-align:center;
+    font-size:15pt;
+	width:200px;
+    height:40px;
+	border: 2px solid black;
+}
+
+.below td{
+	text-align:center;
+    font-size:15pt;
+	width:200px;
+    height:40px;
+	border: 2px solid black;
+}
